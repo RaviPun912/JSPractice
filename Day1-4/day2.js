@@ -8,3 +8,7 @@
 //git push -u origin main //pushes to github //-u is for first time push
 
 //git checkout -b NayaBranchNam //creating new branch
+//git push origin NayaBranchNam 
+//git fetch origin NayaBranchNam // pulls branch in pc 
+//git checkout NayaBranchNam //switches to branch from main branch
+//git checkout main //switches to main
