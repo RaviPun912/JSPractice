@@ -1,0 +1,12 @@
+{
+  "name": "day5",
+  "version": "1.0.0",
+  "description": "Npm tutorial",
+  "main": "day5.js",
+  "scripts": {
+    "build": "hey",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
