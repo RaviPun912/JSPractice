@@ -14,5 +14,6 @@
 // }
 // console.log(hello());//or
 
-const hyhello = () => {return "Hey hello";}
+// const hyhello = () => {return "Hey hello";}
+const hyhello = () => "Hey hello";
 console.log(hyhello());
